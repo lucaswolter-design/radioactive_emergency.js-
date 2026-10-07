@@ -3,6 +3,9 @@
 
 console.log("MY MOD IS LOADING");
 
+categoryToMod["radioactive"] = "Radioactive Elements";
+categoryToMod["toxic"] = "Toxic Elements";
+
 // ================================
 // RADIOACTIVE
 // ================================
