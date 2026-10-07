@@ -3,11 +3,8 @@
 
 console.log("MY MOD IS LOADING");
 
-categoryToMod["radioactive"] = "Radioactive Elements";
-categoryToMod["toxic"] = "Toxic Elements";
-
 // ================================
-// RADIOACTIVE
+// RADIOACTIVE ELEMENTS
 // ================================
 
 elements.radium = {
@@ -43,7 +40,7 @@ elements.plutonium = {
 };
 
 // ================================
-// TOXIC
+// TOXIC ELEMENTS
 // ================================
 
 elements.hexavalent_chromium = {
